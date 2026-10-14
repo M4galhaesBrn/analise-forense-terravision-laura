@@ -52,4 +52,4 @@ O design da interface também orienta a atenção por meio dos nomes dos locais 
 
 A imagem abaixo apresenta uma captura do Google Earth mostrando o Monte Fuji, uma formação vulcânica, e seu relevo.
 
-![Monte Fuji no Google Earth](monte-fuji.jpg)
+![Monte Fuji no Google Earth](monteFUJI.jpg)
