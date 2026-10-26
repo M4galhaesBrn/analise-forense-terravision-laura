@@ -36,6 +36,9 @@ Também pode existir dificuldade na costura das imagens de satélite, principalm
 
 ### Figura-Fundo
 
+## o que é?
+é um princípio da Psicologia da Gestalt que descreve como o cérebro humano separa uma cena visual em duas partes principais: a figura (o objeto ou elemento principal em primeiro plano que recebe o foco da atenção) e o fundo (o plano ou superfície que fica atrás e dá contexto)
+
 A Lei da Figura-Fundo pode ser observada na interface porque o usuário consegue diferenciar o terreno e as formações geológicas dos elementos de navegação e informações exibidos na tela.
 
 Isso facilita a identificação do Monte Fuji e permite que o usuário concentre sua atenção no relevo.
