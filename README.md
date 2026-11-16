@@ -53,6 +53,10 @@ O design da interface também orienta a atenção por meio dos nomes dos locais 
 
 ## 3. Imagem/Evidência
 
-A imagem abaixo apresenta uma captura do Google Earth mostrando o Monte Fuji, uma formação vulcânica, e seu relevo.
+### Imagem/Evidência — Monte Fuji, Japão
+
+A imagem apresenta o Monte Fuji, localizado no Japão, uma das formações vulcânicas mais conhecidas do mundo. Seu formato cônico, o relevo acentuado e o topo frequentemente coberto por neve permitem observar características importantes da paisagem vulcânica.
+
+A visualização pelo Google Earth possibilita analisar sua estrutura geográfica, identificar variações no relevo e compreender como as imagens de satélite contribuem para a representação e interpretação de formações geológicas.
 
 ![Monte Fuji no Google Earth](images.jpg)
